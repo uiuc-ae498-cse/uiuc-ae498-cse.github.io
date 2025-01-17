@@ -4,19 +4,19 @@ title: Home
 nav_order: 1
 ---
 
-# AE 370: Aerospace Numerical Methods
+# AE 498: Computational Systems Engineering
 
-**University of Illinois at Urbana-Champaign, Fall 2024**
+**University of Illinois at Urbana-Champaign, Spring 2025**
 
 **Instructor:** Huy Tran
 
-**Time:** Monday, Wednesday, Friday @ 2:00 pm - 2:50 pm
+**Time:** Monday, Wednesday @ 2:30 pm - 3:50 pm
 
-**Location:** 3101 [Sidney Lu MEB](https://goo.gl/maps/NLmVF9UbZ1ai8cz97)
+**Location:** 106B8 [Engineering Hall](https://maps.app.goo.gl/5Rk2i6RuZ8NnEZcQ6)
 
-Welcome to the beautiful world of numerical methods! This course will introduce basic techniques that underly many of the computational tools used in aerospace engineering and other related fields. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
+Welcome! This course will introduce computational methods for the analysis and design of complex aerospace systems. See the [syllabus]({{ site.baseurl }}/syllabus) for more details.
 
-We hope you enjoy your exploration into this beautiful and important subject! Here are some (of many) exciting example applications of numerical methods:
+<!-- We hope you enjoy your exploration into this subject! Here are some (of many) exciting example applications of numerical methods:
 
 <html>
 <head>
@@ -59,4 +59,4 @@ We hope you enjoy your exploration into this beautiful and important subject! He
   </div>
 </div>
 </body>
-</html>
+</html> -->

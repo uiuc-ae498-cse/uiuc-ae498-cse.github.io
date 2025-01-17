@@ -7,10 +7,12 @@ nav_order: 4
 
 ## Topics
 
-- Function Approximation
-- Initial Value Problem
-- Boundary Value Problem
-- Initital Boundary Value Problem
+- Statistical Learning (linear regression and classification, sampling, model selection)
+- Artificial Neural Networks
+- Design of Experiments
+- Response Surface Methodology
+- Metaheuristic Optimization
+- Multi-Objective Optimization
 
 ## Schedule
 

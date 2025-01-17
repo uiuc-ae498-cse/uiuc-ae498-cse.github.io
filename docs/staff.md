@@ -12,7 +12,7 @@ nav_order: 2
 {{ staffer }}
 {% endfor %}
 
-# Teaching Assistants
+<!-- # Teaching Assistants
 
 {% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
 {% assign num_teaching_assistants = teaching_assistants | size %}
@@ -32,4 +32,4 @@ nav_order: 2
 {% for staffer in course_assistants %}
 {{ staffer }}
 {% endfor %}
-{% endif %}
+{% endif %} -->
