@@ -61,6 +61,8 @@ The website is built using [Jekyll](https://jekyllrb.com/), hosted on [GitHub](h
     ```
     Browse to [http://localhost:4000/](http://localhost:4000/).
 
+1. Commit and push the changes. The website should automatically update when you push changes on the main branch.
+
 ## Updating the website
 
 After creating the initial website, you should be able to just update files as needed. The website should automatically update when you push changes on the main branch.
