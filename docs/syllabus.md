@@ -76,7 +76,7 @@ While the group project will be a team effort, individual grades will be assigne
 
 # Grading
 
-Your final grade will calculated from homeworks (40%), projects (20%), and exams (40%). The following grading scale will be used:
+Your final grade will calculated from homeworks (40%), projects (30%), and exams (30%). The following grading scale will be used:
 
 | Grade | Point Range |
 | --- | --- |
