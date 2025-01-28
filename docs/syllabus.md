@@ -36,6 +36,8 @@ Links to course tools are provided at the top of the website.
 
 All announcements and discussions will be handled on Campuswire. We recommend you set up notifications to keep up with announcements.
 
+You can join the course Campuswire using this link: [https://campuswire.com/p/GBAA919B7](https://campuswire.com/p/GBAA919B7)
+
 Any questions about concepts, assignments, or course material should be made public to avoid answering the same question multiple times. Feel free to post anonymously to your peers or anonymously to everyone (including instructors) as desired. Messages regarding personal issues (e.g., sickness, leave, individual grades) should be messaged privately to the instructor(s).
 
 ### GitHub
@@ -47,6 +49,8 @@ See the [Assignments]({{ site.baseurl }}/resources/assignments) page for more de
 ### Gradescope
 
 All assignment submissions and grades will be handled on Gradescope.
+
+You can join the course Gradescope using this entry code: 8K2ZGB
 
 ### Python
 
