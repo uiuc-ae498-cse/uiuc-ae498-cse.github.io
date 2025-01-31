@@ -7,5 +7,3 @@ Mon Jan 27
 
 Wed Jan 29
 : **LEC 4**{: .label .label-grey }Linear Regression
-    : [HW 1: Linear Regression]()
-: **HW 1 Assigned**{: .label .label-yellow }
