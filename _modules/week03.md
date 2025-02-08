@@ -7,5 +7,5 @@ Mon Feb 3
     : [HW 1: Linear Regression](https://classroom.github.com/a/5hNANxc0)
 : **HW 1 Assigned**{: .label .label-yellow }
 
-Wed Sep 11
+Wed Feb 5
 : **LEC 5**{: .label .label-grey }Classification
