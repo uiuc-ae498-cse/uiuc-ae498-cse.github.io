@@ -2,13 +2,8 @@
 title: Week 13
 ---
 
-Mon Nov 18
-: **Lab**{: .label .label-purple }[Project 2 (Group)](https://classroom.github.com/a/_CGevKCm)
-: **Project 2 (Group) Assigned**{: .label .label-yellow }**Quiz 11 Due**{: .label .label-red }
+Mon Apr 14
+: **LEC 11**{: .label .label-grey }Optimization
 
-Wed Nov 20
-: **Lab**{: .label .label-purple }Project 2 (Group)
-: **Project 2 (Individual) Due**{: .label .label-red }
-
-Fri Nov 22
-: **Lab**{: .label .label-purple }Project 2 (Group)
+Wed Apr 16
+: **LEC 11**{: .label .label-grey }Optimization

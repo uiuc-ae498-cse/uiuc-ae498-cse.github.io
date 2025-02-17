@@ -2,14 +2,10 @@
 title: Week 16
 ---
 
-Mon Dec 9
-: **Lab**{: .label .label-purple }Project 2 (Group) Presentations
-: **Project 2 (Group) Due**{: .label .label-red }
+Mon May 5
+: TBD
 
-Wed Dec 11
-: **Lab**{: .label .label-purple }Project 2 (Group) Presentations
-: **Project 2 Peer Review Assigned**{: .label .label-yellow }
 
-Fri Dec 13
-: No Class
-: **Project 2 Peer Review Due**{: .label .label-red }
+Wed May 7
+: **Proj**{: .label .label-purple }Project 2 Presentations
+: **Project 2 Due**{: .label .label-red }

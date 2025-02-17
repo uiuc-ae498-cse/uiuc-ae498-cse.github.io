@@ -1,13 +1,11 @@
 ---
-title: Week 14 (Fall Break)
+title: Week 14
 ---
 
-Mon Nov 25
-: No Class (Fall Break)
+Mon Apr 21
+: **LEC 12**{: .label .label-grey }Genetic Algorithms
+    : [HW 5: Genetic Algorithms]()
+: **HW 5 Assigned**{: .label .label-yellow }
 
-Wed Nov 27
-: No Class (Fall Break)
-
-
-Fri Nov 29
-: No Class (Fall Break)
+Wed Apr 23
+: **LEC 12**{: .label .label-grey }Genetic Algorithms

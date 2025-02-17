@@ -2,11 +2,9 @@
 title: Week 15
 ---
 
-Mon Dec 2
-: **Lab**{: .label .label-purple }Project 2 (Group)
+Mon Apr 28
+: **LEC 13**{: .label .label-grey }Multi-objective Optimization
 
-Wed Dec 4
-: **Lab**{: .label .label-purple }Project 2 (Group)
-
-Fri Dec 6
-: **Lab**{: .label .label-purple }Project 2 (Group)
+Wed Apr 30
+: **LEC 13**{: .label .label-grey }Multi-objective Optimization
+: **HW 5 Due**{: .label .label-red }
