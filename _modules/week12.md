@@ -4,6 +4,7 @@ title: Week 12
 
 Mon Apr 7
 : **LEC 11**{: .label .label-grey }Optimization
+: **Proj 1 Due**{: .label .label-red }
 
 Wed Apr 9
 : **LEC 11**{: .label .label-grey }Optimization
