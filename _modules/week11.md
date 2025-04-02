@@ -7,5 +7,5 @@ Mon Mar 31
 
 Wed Apr 2
 : **LEC 10**{: .label .label-grey }Design of Experiments
-    : [HW 4: Design of Experiments]()
-: **HW 4 Assigned**{: .label .label-yellow }
+    : [HW 3: Design of Experiments](https://classroom.github.com/a/z5-DiXML)
+: **HW 3 Assigned**{: .label .label-yellow }
