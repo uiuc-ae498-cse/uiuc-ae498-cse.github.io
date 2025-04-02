@@ -1,5 +1,5 @@
 ---
-title: Week 10 (Design Optimization)
+title: Week 10
 ---
 
 Mon Mar 24
