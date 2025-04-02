@@ -1,5 +1,5 @@
 ---
-title: Week 11
+title: Week 11 (Design Optimization)
 ---
 
 Mon Mar 31
