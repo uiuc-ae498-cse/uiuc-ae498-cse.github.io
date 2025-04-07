@@ -3,7 +3,7 @@ title: Week 12
 ---
 
 Mon Apr 7
-: **LEC 11**{: .label .label-grey }Optimization
+: **LEC 10**{: .label .label-grey }Design of Experiments
 : **Proj 1 Due**{: .label .label-red }
 
 Wed Apr 9

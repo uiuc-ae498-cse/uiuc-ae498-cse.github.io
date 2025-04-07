@@ -3,7 +3,7 @@ title: Week 11 (Design Optimization)
 ---
 
 Mon Mar 31
-: **LEC 10**{: .label .label-grey }Design of Experiments
+: **LEC 9**{: .label .label-grey }Neural Networks
 
 Wed Apr 2
 : **LEC 10**{: .label .label-grey }Design of Experiments
