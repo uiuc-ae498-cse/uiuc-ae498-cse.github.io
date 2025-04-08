@@ -7,4 +7,4 @@ Mon Apr 28
 
 Wed Apr 30
 : **LEC 13**{: .label .label-grey }Multi-objective Optimization
-: **HW 5 Due**{: .label .label-red }
+: **HW 4 Due**{: .label .label-red }

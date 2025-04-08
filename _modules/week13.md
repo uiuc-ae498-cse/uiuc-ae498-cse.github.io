@@ -7,3 +7,6 @@ Mon Apr 14
 
 Wed Apr 16
 : **LEC 11**{: .label .label-grey }Optimization
+
+Fri Apr 18
+: **Proj 2 Topic Due**{: .label .label-red }
